@@ -6,7 +6,8 @@ public class MainClass {
 		// TODO Auto-generated method stub
 		
 		System.out.println("hi 1");
-		System.out.println("hi 2");
+		System.out.println("hi 2.1");
+		System.out.println("hi 2.2");
 
 	}
 
